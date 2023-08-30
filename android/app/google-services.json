@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236220913323",
+    "project_id": "notlar-f331e",
+    "storage_bucket": "notlar-f331e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236220913323:android:73e48cc866525b91b249ee",
+        "android_client_info": {
+          "package_name": "com.example.notlar_uygulamasii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236220913323-b82bcmj5qu4ndcic5palna83tgf237rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvp0QsRBC8a2WDXqYSOBGfXdMhepeMYC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236220913323-b82bcmj5qu4ndcic5palna83tgf237rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
